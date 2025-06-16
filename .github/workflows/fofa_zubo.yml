@@ -1,4 +1,4 @@
-name: hfr从fofa获取组播IP
+name: 从fofa获取组播IP至live.txt
 
 on:
   schedule:
