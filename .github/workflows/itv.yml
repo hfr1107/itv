@@ -36,7 +36,7 @@ jobs:
 
 
 
-      - name: 合并到zubo_iptvz.txt
+      - name: 合并到itv.txt
         run: |
             output_file="itv.txt"
             rm -rf "$output_file"
