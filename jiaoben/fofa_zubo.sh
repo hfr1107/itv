@@ -96,9 +96,9 @@ function make_zubo_txt(){
 
 
 function make_zubo_fofa(){
-    rm -rf zubo_fofa.txt
-    echo "===============合并所有城市的txt文件为:zubo_fofa.txt================="
-    output_file="zubo_fofa.txt"
+    rm -rf live.txt
+    echo "===============合并所有城市的txt文件为:live.txt================="
+    output_file="live.txt"
     provinces_cn=$1
 for province_cn in "${provinces_cn[@]}"; do
     for file in txt/fofa_"$province_cn"_*.txt;do
