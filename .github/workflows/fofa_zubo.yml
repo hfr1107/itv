@@ -1,4 +1,4 @@
-name: 从fofa获取组播IP
+name: hfr从fofa获取组播IP
 
 on:
   schedule:
