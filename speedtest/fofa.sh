@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash1
 # cd /root/iptv
 # read -p "确定要运行脚本吗？(y/n): " choice
 
